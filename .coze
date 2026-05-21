@@ -13,6 +13,7 @@ profile = { kind = "skill" }
 [skill]
 skill_package = "SKILL.md"
 name = "项目周报助手"
+description = "将工程项目人员的工作流水账自动整理为结构化项目周报"
 
 [subprojects]
 path = ["."]

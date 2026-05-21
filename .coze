@@ -12,6 +12,7 @@ profile = { kind = "skill" }
 
 [skill]
 skill_package = "SKILL.md"
+name = "项目周报助手"
 
 [subprojects]
 path = ["."]
